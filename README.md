@@ -1,4 +1,4 @@
-# My-Protfolio
+# My-Portfolio
 以下是前端結合uiux作品展示：
 
 ## 專案 1：發芽工作室(首頁)
