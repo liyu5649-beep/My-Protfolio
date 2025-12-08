@@ -14,3 +14,4 @@
 - 簡介：這是我做的響應式網站，使用 HTML/CSS/JS
 - [GitHub Repository](https://github.com/liyu5649-beep/project_waterfront-web)
 - [Demo 網頁](https://liyu5649-beep.github.io/project_waterfront-web/)
+- [會員登入 網頁](https://liyu5649-beep.github.io/project_waterfront-web/5.member-point.html)
