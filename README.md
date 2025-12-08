@@ -13,4 +13,4 @@
   ![首頁截圖](封面.png)
 - 簡介：這是我做的響應式網站，使用 HTML/CSS/JS
 - [GitHub Repository](https://github.com/liyu5649-beep/project_waterfront-web)
-- [Demo 網頁](https://liyu5649-beep.github.io/project_waterfront-web-/1.Home.html)
+- [Demo 網頁](https://liyu5649-beep.github.io/project_waterfront-web/)
